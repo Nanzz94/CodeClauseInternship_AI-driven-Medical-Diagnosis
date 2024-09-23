@@ -1,0 +1,1 @@
+# CodeClauseInternship_AI-driven-Medical-Diagnosis
